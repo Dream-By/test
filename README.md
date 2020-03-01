@@ -1,1 +1,1 @@
-# test task's for SENLA
+# test task for SENLA
